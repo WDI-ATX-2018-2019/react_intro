@@ -1,12 +1,11 @@
 # Welcome To ReactJS
 #### Today we will have a Genderal Overview of React and its core concepts.
-#####To Start Well discuss
+##### To Start Well discuss
 What is React?
 How does it differ from what we have learned so far?
 Why should we learn React?
 
-
-###Todays Learning Objectives
+### Todays Learning Objectives
 >	1. Basic understanding of what react is
 >	2. What is the virtual DOM
 >	3. How is data passed in React
